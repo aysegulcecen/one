@@ -7,3 +7,4 @@
 *ITALIC*
 :pizza:
 :coffee:
+This is new line
